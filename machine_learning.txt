@@ -1,0 +1,31 @@
+MACHINE LEARNING FUNDAMENTALS: SUPERVISED LEARNING, GENERALIZATION, AND OPTIMIZATION
+
+1. Introduction to Machine Learning Paradigms
+Machine learning is defined as a field of artificial intelligence concerned with the development of algorithms that enable computers to learn patterns from historical empirical data without being explicitly programmed with deterministic rules.
+
+Machine learning paradigms are primarily categorized into three classes:
+Supervised Learning: The model is provided with an input dataset along with corresponding target ground-truth labels. The objective is to learn a mapping function from input features to target outputs. Examples include classification and regression.
+Unsupervised Learning: The algorithm is provided with unlabeled data and must independently discover underlying structures, clusters, or probability distributions. Examples include K-Means clustering and Principal Component Analysis (PCA).
+Reinforcement Learning: An autonomous agent learns to take actions within an interactive environment to maximize cumulative scalar reward signals through trial-and-error feedback.
+
+2. The Generalization Problem: Overfitting and Underfitting
+Generalization refers to the capability of a trained machine learning model to accurately predict outputs on previously unseen test data drawn from the same distribution as the training data.
+Underfitting occurs when a machine learning model is excessively simplistic and cannot capture the underlying trend or data structure. An underfit model exhibits high bias and poor performance on both training and validation datasets.
+Overfitting is defined as a condition where a model learns the detailed noise and idiosyncratic fluctuations of the training data to such an extent that it negatively impacts performance on new data. Overfitted models exhibit low bias on training data but excessively high variance on test sets.
+
+3. The Bias-Variance Tradeoff
+The generalization error of any learning algorithm can be decomposed into three theoretical components: bias error, variance error, and irreducible environmental noise.
+Bias Error: Arises from erroneous assumptions in the learning algorithm. High bias causes an algorithm to miss relevant relations between features and target outputs (underfitting).
+Variance Error: Arises from excessive sensitivity to small fluctuations in the training set. High variance causes an algorithm to model random noise rather than intended outputs (overfitting).
+The optimal predictive model achieves a balanced equilibrium that simultaneously minimizes total expected mean squared error.
+
+4. Regularization Techniques
+Regularization refers to any modification made to a learning algorithm that is intended to reduce its generalization error without significantly increasing training error.
+L1 Regularization (Lasso Regression): Adds an absolute penalty equal to the sum of the absolute values of the coefficients to the loss function. L1 regularization encourages feature sparsity by driving irrelevant weights exactly to zero.
+L2 Regularization (Ridge Regression): Adds a squared magnitude penalty to the loss function. L2 regularization prevents any individual parameter from growing excessively large, effectively smoothing model decision boundaries.
+Dropout: A regularization technique specific to deep artificial neural networks where randomly selected neurons are temporarily ignored or dropped out during training forward passes.
+
+5. Optimization via Gradient Descent
+Gradient Descent is defined as an iterative first-order optimization algorithm used to find a local minimum of a differentiable objective loss function. The algorithm computes the partial derivative (gradient) of the loss with respect to each model parameter and updates parameters in the negative gradient direction.
+The Learning Rate is a critical hyperparameter that determines the step size taken towards the minimum in each iteration. An excessively large learning rate causes catastrophic divergence or oscillations across the loss valley, while an overly small learning rate results in prolonged, sluggish convergence.
+Variants of gradient descent include Batch Gradient Descent, Stochastic Gradient Descent (SGD), and Mini-Batch Gradient Descent, along with adaptive moment algorithms such as Adam and RMSProp.

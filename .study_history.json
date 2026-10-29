@@ -1,0 +1,490 @@
+{
+  "summaries": [
+    {
+      "id": "sum_1793279360",
+      "timestamp": "2026-10-29 18:39:20",
+      "document_title": "AVL TREE new.pdf",
+      "summary_type": "Medium",
+      "executive_summary": "Thus, every node has a balance factor associated with it. • Balance factor = Height (left sub-tree) – Height (right sub-tree) • Balance factor = Height (left sub-tree) – Height (right sub-tree) • A binary search tree in which every node has a balance factor of –1, 0, or 1 is said to be height balanc...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 994
+    },
+    {
+      "id": "sum_1793279095",
+      "timestamp": "2026-10-29 18:34:55",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Medium",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276931",
+      "timestamp": "2026-10-29 17:58:51",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Detailed",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276927",
+      "timestamp": "2026-10-29 17:58:47",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Medium",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276923",
+      "timestamp": "2026-10-29 17:58:43",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Detailed",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276922",
+      "timestamp": "2026-10-29 17:58:42",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Detailed",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276921",
+      "timestamp": "2026-10-29 17:58:41",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Detailed",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276913",
+      "timestamp": "2026-10-29 17:58:33",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Short",
+      "executive_summary": "To find currently running thread in this program class Current { public static void main(String args[]) { System.out.println(\"Let us find current thread\"); Thread t Thread.currentThread(); System.out.println(\"Current thread= \"+t): System.out.println(\"Its name= \"+t.getName()); } } Department of CSE |...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793276676",
+      "timestamp": "2026-10-29 17:54:36",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "summary_type": "Medium",
+      "executive_summary": "This thread is used by JVM execute the program statements Multithreading in Java Department of CSE | OBJECT ORIENTED PROGRAMMING THROUGH JA V A How to create a thread in Java Step:1 create a thread There are two ways to create a thread: • By extending Thread class • Eg: Class My class extends Thread...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 3022
+    },
+    {
+      "id": "sum_1793275245",
+      "timestamp": "2026-10-29 17:30:45",
+      "document_title": "BEEE_IEEE_Report.pdf",
+      "summary_type": "Medium",
+      "executive_summary": "BEEE -IEEE FORMAT T2 EXTENSION CSE(AIML) BATCH NO-6 SECTION -27 REGISTRATION NUMBERS K.ROHITHA -251FA18343 G.SUMITH -251FA18282 G.MOKSHINI -251FA18244 TOPIC-DIFFERENCE BETWEEN SUSCEPTANCE AND CONDUCTANCE, VERIFICATION OF IMPEDANCE, PHASE ANGLE, TOTAL POWER COURSE INSTRUCTOR-Dr.M.UMA MAHESWARA RAO SI...",
+      "mode": "Local Demonstration Mode (Extractive & Rule-based NLP)",
+      "word_count": 1151
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz_1793279417",
+      "timestamp": "2026-10-29 18:40:17",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279417",
+      "timestamp": "2026-10-29 18:40:17",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279416",
+      "timestamp": "2026-10-29 18:40:16",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279416",
+      "timestamp": "2026-10-29 18:40:16",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279416",
+      "timestamp": "2026-10-29 18:40:16",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279415",
+      "timestamp": "2026-10-29 18:40:15",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279415",
+      "timestamp": "2026-10-29 18:40:15",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279413",
+      "timestamp": "2026-10-29 18:40:13",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279413",
+      "timestamp": "2026-10-29 18:40:13",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279413",
+      "timestamp": "2026-10-29 18:40:13",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279413",
+      "timestamp": "2026-10-29 18:40:13",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279413",
+      "timestamp": "2026-10-29 18:40:13",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279412",
+      "timestamp": "2026-10-29 18:40:12",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279407",
+      "timestamp": "2026-10-29 18:40:07",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279405",
+      "timestamp": "2026-10-29 18:40:05",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279400",
+      "timestamp": "2026-10-29 18:40:00",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    },
+    {
+      "id": "quiz_1793279394",
+      "timestamp": "2026-10-29 18:39:54",
+      "document_title": "AVL TREE new.pdf",
+      "total_questions": 5,
+      "correct_count": 3,
+      "percentage": 60.0,
+      "performance_band": "📚 Developing (Revision Recommended)",
+      "weak_topics": [
+        "RL rotation",
+        "Example"
+      ],
+      "mode": "Local Demonstration Mode (Rule-based NLP)"
+    }
+  ],
+  "topics": [
+    {
+      "id": "top_1793279148",
+      "timestamp": "2026-10-29 18:35:48",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 8,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277728",
+      "timestamp": "2026-10-29 18:12:08",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277728",
+      "timestamp": "2026-10-29 18:12:08",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277727",
+      "timestamp": "2026-10-29 18:12:07",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277726",
+      "timestamp": "2026-10-29 18:12:06",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277725",
+      "timestamp": "2026-10-29 18:12:05",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277725",
+      "timestamp": "2026-10-29 18:12:05",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277724",
+      "timestamp": "2026-10-29 18:12:04",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793277723",
+      "timestamp": "2026-10-29 18:12:03",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793276709",
+      "timestamp": "2026-10-29 17:55:09",
+      "document_title": "OOPS M2_Unit3-1 new.pdf",
+      "top_topics": [
+        "Thread",
+        "OBJECT ORIENTED PROGRAMMING THROUGH JA",
+        "Department",
+        "System",
+        "Ja"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    },
+    {
+      "id": "top_1793275351",
+      "timestamp": "2026-10-29 17:32:31",
+      "document_title": "BEEE_IEEE_Report.pdf",
+      "top_topics": [
+        "Circuit",
+        "Ac",
+        "Conductance",
+        "Analysis",
+        "Angle"
+      ],
+      "topic_count": 10,
+      "mode": "Local Demonstration Mode"
+    }
+  ]
+}

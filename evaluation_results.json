@@ -1,0 +1,12 @@
+{
+  "extraction_success_rate": 100.0,
+  "avg_extraction_time_ms": 3.08,
+  "quiz_validity_rate": 100.0,
+  "avg_quiz_gen_time_ms": 3.09,
+  "scoring_accuracy_rate": 100.0,
+  "grounded_qa_accuracy": 100.0,
+  "avg_qa_time_ms": 0.4,
+  "summary_latency_ms": 1.16,
+  "topic_extraction_latency_ms": 0.68,
+  "topic_explain_latency_ms": 0.25
+}
