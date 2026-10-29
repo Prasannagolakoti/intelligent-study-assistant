@@ -1,2 +1,16 @@
-# Created by pytest automatically.
-*
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and API keys
+.env
+
+# Streamlit cache
+.streamlit/secrets.toml
